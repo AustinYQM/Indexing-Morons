@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.judginginsanity.net	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1723741578|fdWUuTTPy8Xk
+www.judginginsanity.net	TRUE	/	FALSE	1999999999	hs	1519967614
+www.judginginsanity.net	TRUE	/	FALSE	1999999999	svSession	5774c27541d748b92fc5e17b6e585ce8639419ad30bcaaa3d926c1dfb6a4b832f7d340c779fc7ce6b7a0fcfd0c96e7dd1e60994d53964e647acf431e4f798bcd6356c0bf1cfb1b025ccabb508762477c6f9c70522853cd42fe4bf7874ba154148ccb57634fbc209a33f846734795b319cff4b45abb3c5e3e86be27c0e404cc3e1b7e2614977dbaeef2cfc51d6ac718d3
+www.judginginsanity.net	TRUE	/	FALSE	1999999999	SameSite	None
+www.judginginsanity.net	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss_miss#dc#desc=fastly_42_g
+

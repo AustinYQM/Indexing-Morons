@@ -1,0 +1,37 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 15 Aug 2024 12:06:18 at https://www.judginginsanity.net/ +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv
+(winhttrack -qw%e0C2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.judginginsanity.net/ -O1 "C:\My Web Sites\Judging Insanity" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:06:43	Error: 	"Not Found" (404) at link https://www.judginginsanity.net/c (from https://www.judginginsanity.net/)
+12:06:43	Error: 	"Not Found" (404) at link https://www.judginginsanity.net/t (from https://www.judginginsanity.net/)
+12:10:30	Warning: 	Retry after error -5 (Unable to get server's address: The requested name is valid, but no data of the ) at link https://browser.sentry-cdn.com/6.18.2/bundle.min.js (from https://www.judginginsanity.net/)
+12:10:30	Error: 	"Not Found" (404) at link https://www.judginginsanity.net/feed.xml (from https://www.judginginsanity.net/)
+12:10:30	Error: 	"Not Found" (404) at link https://www.judginginsanity.net/${i.uri} (from https://www.judginginsanity.net/)
+12:10:30	Error: 	"Not Found" (404) at link https://www.judginginsanity.net/decodeURIComponent(e (from https://www.judginginsanity.net/)
+12:10:30	Error: 	"Not Found" (404) at link https://www.judginginsanity.net/post/c (from https://www.judginginsanity.net/post/is-the-indivisible-movement-influencing-cyfair-isd)
+12:10:30	Error: 	"Not Found" (404) at link https://www.judginginsanity.net/post/t (from https://www.judginginsanity.net/post/is-the-indivisible-movement-influencing-cyfair-isd)
+12:10:30	Error: 	"Not Found" (404) at link https://www.judginginsanity.net/blog/hashtags/9 (from https://www.judginginsanity.net/post/is-the-indivisible-movement-influencing-cyfair-isd)
+12:10:30	Error: 	"Not Found" (404) at link https://www.judginginsanity.net/blog/hashtags/10 (from https://www.judginginsanity.net/post/is-the-indivisible-movement-influencing-cyfair-isd)
+12:10:30	Error: 	"Not Found" (404) at link https://www.judginginsanity.net/blog/hashtags/11 (from https://www.judginginsanity.net/post/is-the-indivisible-movement-influencing-cyfair-isd)
+12:10:30	Error: 	"Not Found" (404) at link https://www.judginginsanity.net/blog/hashtags/12 (from https://www.judginginsanity.net/post/is-the-indivisible-movement-influencing-cyfair-isd)
+12:10:30	Error: 	"Not Found" (404) at link https://www.judginginsanity.net/blog/hashtags/13 (from https://www.judginginsanity.net/post/is-the-indivisible-movement-influencing-cyfair-isd)
+12:10:43	Error: 	"Not Found" (404) at link https://www.judginginsanity.net/post/robots.txt (from https://www.judginginsanity.net/post/is-the-indivisible-movement-influencing-cyfair-isd)
+12:10:43	Error: 	"Not Found" (404) at link https://www.judginginsanity.net/post/sitemap.xml (from https://www.judginginsanity.net/post/is-the-indivisible-movement-influencing-cyfair-isd)
+12:10:43	Error: 	"Not Found" (404) at link https://www.judginginsanity.net/post/feed.xml (from https://www.judginginsanity.net/post/is-the-indivisible-movement-influencing-cyfair-isd)
+12:10:43	Error: 	"Not Found" (404) at link https://www.judginginsanity.net/post/${i.uri} (from https://www.judginginsanity.net/post/is-the-indivisible-movement-influencing-cyfair-isd)
+12:10:48	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://browser.sentry-cdn.com/6.18.2/bundle.min.js (from https://www.judginginsanity.net/)
+12:10:48	Error: 	"Not Found" (404) at link https://www.judginginsanity.net/blog/hashtags/c (from https://www.judginginsanity.net/blog/hashtags/judginginsanity)
+12:10:48	Error: 	"Not Found" (404) at link https://www.judginginsanity.net/blog/hashtags/t (from https://www.judginginsanity.net/blog/hashtags/judginginsanity)
+12:10:48	Error: 	"Not Found" (404) at link https://www.judginginsanity.net/blog/hashtags/robots.txt (from https://www.judginginsanity.net/blog/hashtags/judginginsanity)
+12:10:48	Error: 	"Not Found" (404) at link https://www.judginginsanity.net/blog/hashtags/sitemap.xml (from https://www.judginginsanity.net/blog/hashtags/judginginsanity)
+12:10:48	Error: 	"Not Found" (404) at link https://www.judginginsanity.net/blog/hashtags/feed.xml (from https://www.judginginsanity.net/blog/hashtags/judginginsanity)
+12:10:48	Error: 	"Not Found" (404) at link https://www.judginginsanity.net/blog/hashtags/${i.uri} (from https://www.judginginsanity.net/blog/hashtags/judginginsanity)
+12:10:48	Error: 	"Not Found" (404) at link https://www.judginginsanity.net/blog/hashtags/decodeURIComponent(e (from https://www.judginginsanity.net/blog/hashtags/judginginsanity)
+12:10:48	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://browser.sentry-cdn.com/6.18.2/bundle.min.js (from https://www.judginginsanity.net/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 30 seconds : 675 links scanned, 648 files written (24153361 bytes overall) [15537332 bytes received at 57545 bytes/sec], 23059900 bytes transferred using HTTP compression in 65 files, ratio 22%, 8.9 requests per connection
+(24 errors, 2 warnings, 0 messages)
